@@ -10,7 +10,9 @@
   "author": "Dulanjana Bandara",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongoose": "^7.3.1",
+    "validator": "^13.9.0"
   },
   "devDependencies": {
     "eslint": "^8.43.0",
